@@ -1,0 +1,35 @@
+<idea-plugin>
+  <id>com.your.company.unique.plugin.id</id>
+  <name>One Dark Native</name>
+  <version>1.0</version>
+  <vendor email="aradipatrik@gmail.com" url="">Aradi Patrik</vendor>
+
+  <description><![CDATA[
+      This color theme try to recreate the theme of the Atom text editor, One Dark, using the new native theme support.
+    ]]></description>
+
+  <change-notes><![CDATA[
+      Add editor and default window styles. Added java, typescript, json, and xml support.
+    ]]>
+  </change-notes>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <!-- uncomment to enable plugin in all products
+  <depends>com.intellij.modules.lang</depends>
+  -->
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <themeProvider id="03a46e74-b73d-475c-a97a-758ca600f2c2"
+                   path="/one-dark-native.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>

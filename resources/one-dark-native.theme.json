@@ -1,0 +1,48 @@
+{
+  "name": "aradipatrik",
+  "dark": true,
+  "author": "Aradi Patrik",
+  "editorScheme": "/one-dark.xml",
+  "ui": {
+    "*": {
+      "background": "#21252b",
+      "foreground": "#cccccc",
+      "selectionBackground": "#4373c2",
+      "selectionForeground": "#ced1d7",
+      "selectionInactiveBackground": "#3a3f4b",
+      "selectionBackgroundInactive": "#0e293f",
+      "errorForeground": "#EF5350"
+    },
+    "EditorTabs": {
+      "selectedBackground": "#282c34",
+      "borderColor": "#181a1f",
+      "underlineColor": "#568af2",
+      "inactiveMaskColor": "#282c34"
+    },
+    "Borders.color": "#181a1f",
+    "Borders.ContrastBorderColor": "#181a1f",
+    "Menu.background": "#21252b",
+    "Menu.disabledBackground": "#21252b",
+
+    "ToolWindow": {
+      "Header": {
+        "background": "#21252b",
+        "inactiveBackground": "#21252b"
+      },
+      "Button": {
+        "hoverBackground": "#21252b",
+        "selectedBackground": "#3a3f4b",
+        "selectedForeground": "#ced1d7"
+      },
+      "HeaderTab.hoverBackground": "#ff0000"
+    },
+    "PopupMenu": {
+      "borderWidth": 0,
+      "background": "#3a3f4b",
+      "foreground": "#ff0000"
+    },
+    "FileColor": {
+      "Yellow": "#21252b"
+    }
+  }
+}
