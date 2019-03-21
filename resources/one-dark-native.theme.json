@@ -2,7 +2,7 @@
   "name": "aradipatrik",
   "dark": true,
   "author": "Aradi Patrik",
-  "editorScheme": "/one-dark.xml",
+  "editorScheme": "/one-dark-native.xml",
   "ui": {
     "*": {
       "background": "#21252b",

@@ -1,5 +1,5 @@
 <idea-plugin>
-  <id>com.your.company.unique.plugin.id</id>
+  <id>hu.aradipatrik.onedarknative</id>
   <name>One Dark Native</name>
   <version>1.0</version>
   <vendor email="aradipatrik@gmail.com" url="">Aradi Patrik</vendor>
@@ -19,9 +19,7 @@
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
        on how to target different products -->
-  <!-- uncomment to enable plugin in all products
   <depends>com.intellij.modules.lang</depends>
-  -->
 
   <extensions defaultExtensionNs="com.intellij">
     <!-- Add your extensions here -->
