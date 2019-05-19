@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>hu.aradipatrik.onedarknative</id>
   <name>One Dark Native</name>
-  <version>1.0</version>
+  <version>1.4</version>
   <vendor email="aradipatrik@gmail.com" url="">Aradi Patrik</vendor>
 
   <description><![CDATA[
@@ -10,7 +10,8 @@
     ]]></description>
 
   <change-notes><![CDATA[
-      Add editor and default window styles. Added java, typescript, json, and xml support.
+      Add more language support
+      Remove ugly white lines
     ]]>
   </change-notes>
 

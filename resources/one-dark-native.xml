@@ -1,4 +1,4 @@
-<scheme name="aradipatrik" version="142" parent_scheme="Darcula">
+<scheme name="one-dark-native" version="142" parent_scheme="Darcula">
   <colors>
     <option name="CARET_COLOR" value="528bff" />
     <option name="CARET_ROW_COLOR" value="2c313c" />
