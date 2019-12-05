@@ -10,10 +10,8 @@
     ]]></description>
 
   <change-notes><![CDATA[
-      Add more language support
-      Remove ugly white lines
-    ]]>
-  </change-notes>
+      Remove harsh indent guides, so they are not as emphasized anymore
+  ]]></change-notes>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
   <idea-version since-build="173.0"/>
