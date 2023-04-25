@@ -33,8 +33,7 @@
         "hoverBackground": "#21252b",
         "selectedBackground": "#3a3f4b",
         "selectedForeground": "#ced1d7"
-      },
-      "HeaderTab.hoverBackground": "#ff0000"
+      }
     },
     "PopupMenu": {
       "borderWidth": 0,
