@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>hu.aradipatrik.onedarknative</id>
   <name>One Dark Native</name>
-  <version>1.4</version>
+  <version>1.5</version>
   <vendor email="aradipatrik@gmail.com" url="">Aradi Patrik</vendor>
 
   <description><![CDATA[
@@ -10,7 +10,7 @@
     ]]></description>
 
   <change-notes><![CDATA[
-      Remove harsh indent guides, so they are not as emphasized anymore
+      Change the HeaderTab.hoverBackground color
   ]]></change-notes>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
